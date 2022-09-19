@@ -24,4 +24,8 @@ System.out.println("12");
 System.out.println("123");
 	}
 	
+	private void sivagangai() {
+System.out.println("4");
+	}
+	
 }
