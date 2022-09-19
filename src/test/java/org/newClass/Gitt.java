@@ -14,4 +14,14 @@ System.out.println("2");
 System.out.println("3");
 	}
 	
+	private void coimbatore() {
+System.out.println("11");
+	}
+	private void madurai() {
+System.out.println("12");
+	}
+	private void theni() {
+System.out.println("123");
+	}
+	
 }
